@@ -48,13 +48,13 @@ go mod init kubewrite
 cobra-cli init kubewrite
 ```
 
-What init does is initialize
+What `go mod init` is initialize/create a new module file for keeping track of dependencies and `cobra-cli init kubewrite` initializes a new cobra-cli project structure.
 
-You'll be getting a project structure like this:
+You'll be getting a structure like this:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673534375819/47be5af6-d739-452b-bb74-9f969e5733f7.png align="center")
 
-The `cobra-cli` command creates a separate folder which I think is unintuitive. Let's move the contents of the inner `kubewrite` up the hierarchy to get this:
+The `cobra-cli` command creates a separate folder (the second "*kubewrite*" folder in this case) which I think is unintuitive. Let's move the contents of the inner `kubewrite` up the hierarchy to get this:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673534553672/0e2ed3e3-3e2e-4bf1-96bf-eb2e0ab83397.png align="center")
 
