@@ -22,6 +22,8 @@ Context regarding the Kubernetes deployment file and its various fields is benef
 
 ## Setting up the basics
 
+This here is the GitHub repo link if you intend to follow along: [https://github.com/abs007/kubewrite](https://github.com/abs007/kubewrite)
+
 The go cobra framework comes with the library itself and also the cobra generator. The generator can be used for setting up all the required basic files. Setting up your project this way also helps ensure a proper structure. We'll be using the generator for this blog. Link for the generator: [https://github.com/spf13/cobra#usage](https://github.com/spf13/cobra#usage)
 
 Let's first download the generator:
@@ -202,5 +204,3 @@ This should be the output:
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673624967687/bc747051-da74-42dd-b8ac-f2ea00c6c81c.png align="center")
 
 If you got this far and understood it all, congrats :)
-
-Here's the GitHub repository for the project: [https://github.com/abs007/kubewrite](https://github.com/abs007/kubewrite)
