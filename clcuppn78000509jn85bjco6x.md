@@ -1,4 +1,12 @@
-# Building a go cli tool to generate Kubernetes deployment files
+---
+title: "Building a go cli tool to generate Kubernetes deployment files"
+datePublished: Fri Jan 13 2023 16:06:46 GMT+0000 (Coordinated Universal Time)
+cuid: clcuppn78000509jn85bjco6x
+slug: building-a-go-cli-tool-to-generate-kubernetes-deployment-files
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673950656554/243a4375-a7a2-4d47-b74e-b6e004302759.png
+tags: golang, kubernetes, cobra, cobra-cli
+
+---
 
 The Go cobra framework is a great tool that can be used to write command-line interfaces in golang. It is used by many different organisations and projects because of how easy and simple it is to use.
 
@@ -204,3 +212,5 @@ This should be the output:
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673624967687/bc747051-da74-42dd-b8ac-f2ea00c6c81c.png align="center")
 
 If you got this far and understood it all, congrats :)
+
+%[https://codepen.io/abs007-the-solid/pen/PoybPPq]
