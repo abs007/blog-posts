@@ -1,4 +1,12 @@
-# What is POSIX and how does it translate to Kubernetes
+---
+title: "What is POSIX and how does it translate to Kubernetes"
+datePublished: Wed Jan 04 2023 11:16:53 GMT+0000 (Coordinated Universal Time)
+cuid: clchke78g000008mn4136chuf
+slug: what-is-posix-and-how-does-it-translate-to-kubernetes
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683093509386/9592279e-8496-47b0-96e7-6bbf630d67c4.jpeg
+tags: kubernetes, posix
+
+---
 
 POSIX stands for Portable Operating System Interface. It's a set of standards that define a common interface for operating systems. Unix was the original operating system developed but POSIX came around as a standardization to address issues between Unix variants.
 
