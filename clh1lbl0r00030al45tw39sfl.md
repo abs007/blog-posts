@@ -3,6 +3,7 @@ title: "Getting into open source"
 datePublished: Sat Apr 29 2023 06:17:04 GMT+0000 (Coordinated Universal Time)
 cuid: clh1lbl0r00030al45tw39sfl
 slug: getting-into-open-source
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683093049603/31c32f48-684a-4a08-9748-405060c65b43.png
 tags: opensource, beginnersguide
 
 ---
@@ -23,11 +24,15 @@ So, for the rest of this blog, I'll go through a sort of self-interview where I'
 
 Q) **What is the very first thing you do when contributing?**
 
-\- The very first thing would be to look at the docs, especially the README.md file. Reading this file is important as it answers a lot of the questions you might be having in your head. Going through the README tells you a lot about the project and how it works. A lot of the time It gives you enough background information for you to get started with contributing to the project. It also has links for further documentation and community channels for the project. Be sure to read this readme and further related documentation so that you know enough to work on the project. You don't have to read everything but enough for you to get started.
+\- The very first thing would be to look at the docs, especially the README.md file. Reading this file is important as it answers a lot of the questions you might be having in your head. Going through the README tells you a lot about the project and how it works.
+
+A lot of the time It gives you enough background information for you to get started with contributing to the project. It also has links for further documentation and community channels for the project. Be sure to read this readme and further related documentation so that you know enough to work on the project. You don't have to read everything but enough for you to get started.
 
 **Q) How do I choose among so many different projects?**
 
-\- Try to work on a project to which you can relate. A project in a known field definitely helps. For example, I started out with Cloud Native projects since I had an interest in containers and containerized technology. This helped me in my contribution journey as I was inspired to know more about the tools I was working with and being able to contribute to these tools made me happy to do more. So, look for a project in a known domain. For eg, if you're into webdev, look at React, Npm etc. If you're into Containers like I am, look at Kubernetes, Prometheus and so on. There are tons of different projects to choose from. Even if you don't know much about the domain but feel like going with your gut then I'd suggest you do so. You can always learn on the go. Just pick one that you feel inclined towards.
+\- Try to work on a project to which you can relate. A project in a known field definitely helps. For example, I started out with Cloud Native projects since I had an interest in containers and containerized technology. This helped me in my contribution journey as I was inspired to know more about the tools I was working with and being able to contribute to these tools made me happy to do more. So, look for a project in a known domain.
+
+For eg, if you're into webdev, look at React, Npm etc. If you're into Containers like I am, look at Kubernetes, Prometheus and so on. There are tons of different projects to choose from. Even if you don't know much about the domain but feel like going with your gut then I'd suggest you do so. You can always learn on the go. Just pick one that you feel inclined towards.
 
 **Q) How do you contact maintainers and ask them good questions?**
 
@@ -35,7 +40,7 @@ Q) **What is the very first thing you do when contributing?**
 
 Another thing to make sure is that you should always ask good questions. Good questions are questions where you've done your due diligent research and have made sure to understand all that you could about the problem from your side before asking. This helps in showcasing the fact that you've thought about the problem and haven't just given up as soon as you saw something difficult. People answering would like this and hence would be more inclined towards answering your doubt.
 
-[Dontasktoask](https://dontasktoask.com/) is a very good resource that teaches you more about how you should ask questions.
+[Dontasktoask](https://dontasktoask.com/) is a great site that teaches you more about how you should ask questions.
 
 **Q) How do I understand a new programming language quick enough to start contributing?**
 
